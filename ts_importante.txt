@@ -1,0 +1,15 @@
+Importante: criando um ts, cria um js
+
+tsc --init cria um tsconfig.json
+funções relacionadas ao tsconfig.copilot
+target- define a versão que o js vai ser compilado
+
+
+"module": "commonjs",  sendo o tipo de import que sera utilizado
+    // ExNext importar e exportar de módulos ES6, mas não é suportado por todos os navegadores.
+
+ // "outDir": "./",     
+    // arquivos compilados do js  serão jogados 
+  
+ "rootDir": "./" localização dos nossos arquivos js 
+
